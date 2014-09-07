@@ -24,6 +24,6 @@
  5. Most web pages with images and links will be rendered correctly if they are having content restricted to the abouve mime types. Browsers on which myhttpd  server was tested is Google Chrome Version 29.0.1547.62 and Mozilla Firefox for ubuntu 23.0
 
 
-Note 1:- Sometimes more than 10 requests take a long time to execute if myhttpd is started with only one thread. 
+. 
 
-Note 2:- When both -d and -l are specified myhttpd will write into a log file as well as write to stdout.
+Note:- When both -d and -l are specified myhttpd will write into a log file as well as write to stdout.
